@@ -20,7 +20,7 @@ id_nr_none = 9999
 room = 'r1'
 user_id = ''
 meeting_id = ''
-sleep_time = 1
+sleep_time = 2
 
 
 # exit prog
